@@ -85,7 +85,7 @@ ubuntu-drivers-common==0.0.0
 ufw==0.35
 -e git+https://gitlab.com/itws2-2017-spring-iiith/course-forum.git@ebfb0f03c548bf3ecb553e3e3d78d12a46913dce#egg=uncompyle6&subdirectory=Downloads/uncompyle6-2.9.10
 unpyclib==0.8.1
-urllib3==1.13.1
+urllib3==1.26.5
 uWSGI==2.0.15
 virtkey==0.63.0
 virtualenv==15.1.0
